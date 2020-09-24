@@ -25,11 +25,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
-  /*
-  ** Global CSS
-  */
-  css: [
-  ],
+ 
   /*
   ** Plugins to load before mounting the App
   ** https://nuxtjs.org/guide/plugins
